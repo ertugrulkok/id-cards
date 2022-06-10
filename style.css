@@ -101,9 +101,9 @@ body {
 
 @media (max-width: 600px) {
   .container .box:hover .content {
-    transform: translate(0, 6rem);
+    transform: translate(0, 8rem);
   }
   .container .box:hover .imgBox {
-    transform: translate(0, -6rem);
+    transform: translate(0, -8rem);
   }
 }
